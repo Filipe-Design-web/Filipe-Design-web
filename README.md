@@ -1,6 +1,5 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Filipe Lima</h1>
 <h3 align="center">technology student, focusing on Front-End and UX | UI</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito" alt="maykbrito" /> </p>
 
 -🌱 I’m currently learning at CSS, BOOTSTRAP JAVASCRIPT, REACT.JS
 
