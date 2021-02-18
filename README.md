@@ -1,4 +1,4 @@
-<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Filipe Lima</h1>
+<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">,  I'm Filipe Lima</h1>
 <h3 align="center">technology student, focusing on Front-End and UX | UI</h3>
 
 -🌱 I’m currently learning at CSS, BOOTSTRAP JAVASCRIPT, REACT.JS
