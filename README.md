@@ -8,9 +8,6 @@
 
 - 🌱 I’m currently learning at CSS, BOOTSTRAP JAVASCRIPT, REACT.JS
 
-- 💬  Ask me about anything, I will be happy to help you!
-
-- 📫 How to reach me: @_flima01
 
 - ⚡ Fun fact **Oneye 😜**
 <p align="left">
@@ -20,6 +17,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
 </p>
 
+<p align="left">
+  💌 If you want to carry out a project with me (or chat / ask questions), do not hesitate to send me a message: ⤵️
+</p>
 
 <p align="left">
   <a href="https://www.instagram.com/_flima01/" alt="Instagram">
