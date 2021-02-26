@@ -2,6 +2,10 @@
 <h3 align="center">technology student, focusing on Front-End and UX | UI</h3>
 
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+
+
 - 🌱 I’m currently learning at CSS, BOOTSTRAP JAVASCRIPT, REACT.JS
 
 - 💬  Ask me about anything, I will be happy to help you!
@@ -16,8 +20,12 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
 </p>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/filipedevweb/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="maykbrito" height="20" width="20" /></a>
-<a href="https://instagram.com/_flima01" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="maykbrito" height="20" width="20" /></a>
-</p>
+
+<p align="left">
+  <a href="https://www.instagram.com/_flima01/" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/iuricoding/"/></a>
+  
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/flpcode/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iuricode" /></a>
+</p>  
 
