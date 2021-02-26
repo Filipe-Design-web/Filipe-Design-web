@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning at: <strong>CSS, BOOTSTRAP JAVASCRIPT, REACT.JS</strong>
+- 🌱 I’m currently learning at: <strong>Css, Bootstrap JavaScript, React.JS</strong>
 - <p align="left">
   💼 Ferramentas: <strong>VSCODE, PhotoShop, Figma, Netlify, Git and GitHub.</strong>
 </p>
