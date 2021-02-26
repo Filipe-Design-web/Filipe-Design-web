@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning at: <strong>Css, Bootstrap JavaScript, React.JS</strong>
 - <p align="left">
-  💼 Ferramentas: <strong>VSCODE, PhotoShop, Figma, Netlify, Git and GitHub.</strong>
+  💼 Tools: <strong>VsCode, PhotoShop, Figma, Netlify, Git and GitHub.</strong>
 </p>
 
 <p align="left">
